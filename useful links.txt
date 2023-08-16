@@ -1,0 +1,5 @@
+Font Link :  https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap
+
+Netflix Logo Link :  https://tinyurl.com/netflixsvglogo
+
+Netflix Background link :  https://tinyurl.com/netflixbgimage
